@@ -1,0 +1,27 @@
+{
+  "settings": {
+    "prefix": ".",
+    "ownerNumber": "923237045919",
+    "welcomeMsg": "Welcome to the group!",
+    "language": "en"
+  },
+  "features": {
+    "autoNews": false,
+    "autoReply": true,
+    "antiDelete": true,
+    "autoReact": true
+  },
+  "plugins": {
+    "newsPlugin": {
+      "enabled": false,
+      "groups": []
+    },
+    "settingsPlugin": {
+      "enabled": true
+    }
+  },
+  "data": {
+    "users": {},
+    "groups": {}
+  }
+}
